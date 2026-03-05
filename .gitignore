@@ -1,0 +1,16 @@
+# Python dependencies (installed locally in lib/)
+lib/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# macOS metadata
+.DS_Store
+
+# PowerPoint output files (uncomment to also ignore source pptx files)
+ *.pptx
+
+# PDF outputs
+# *.pdf
